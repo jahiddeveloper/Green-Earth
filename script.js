@@ -59,7 +59,8 @@ document.getElementById("all-tree-btn")
                             <p class="font-bold">৳<span>${plant.price}</span></p>
                         </div>
                         <button
-                            class="mx-auto block w-full bg-[#15803d] py-3 text-white mt-3 rounded-3xl cursor-pointer hover:bg-[#22c55d] hover:transition duration-400">Add
+                            id=""
+                            class="add-btn mx-auto block w-full bg-[#15803d] py-3 text-white mt-3 rounded-3xl cursor-pointer hover:bg-[#22c55d] hover:transition duration-400">Add
                             to Cart</button>
                     </div>
 
