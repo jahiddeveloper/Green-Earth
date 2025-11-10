@@ -65,7 +65,7 @@ document.getElementById("all-tree-btn")
 
             `
 
-            cartContainer.append(div);
+                cartContainer.append(div);
             })
         }
     })
